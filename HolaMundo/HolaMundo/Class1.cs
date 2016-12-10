@@ -9,5 +9,6 @@ namespace HolaMundo
     class Class1
     {
         //hola
+        console.writeline("Este es un ejemplo de desde la app git");
     }
 }
